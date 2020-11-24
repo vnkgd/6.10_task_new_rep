@@ -58,7 +58,7 @@ article img {
     object-fit: cover;
 }
 
-article p:nth-child(2n){
+.newstext p:nth-child(2n){
     background-color: rgb(185, 219, 233);
 }
 

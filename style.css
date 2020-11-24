@@ -58,8 +58,8 @@ article img {
     object-fit: cover;
 }
 
-p:nth-child(2n+2){
-    background-color: hsla(26, 94%, 48%, 0.055);
+p:nth-child(n+1){
+    background-color: skyblue;
 }
 
 footer {

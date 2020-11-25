@@ -58,7 +58,7 @@ article img {
     object-fit: cover;
 }
 
-article p:nth-child(2n){
+article:nth-child(2n){
     background-color: #1C9AB1;
 }
 

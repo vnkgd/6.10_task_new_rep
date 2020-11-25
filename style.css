@@ -62,7 +62,7 @@ article:nth-child(2n) p{
     background-color: #c2e0ff;
 }
 
-article h1::after{
+article h2::after{
     content: "NEW";
     color: red);
     font-size: 0.5em

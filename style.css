@@ -58,8 +58,8 @@ article img {
     object-fit: cover;
 }
 
-.newstext p:nth-child(2n){
-    background-color: rgb(185, 219, 233);
+article p:nth-child(2n){
+    background-color: #1C9AB1;
 }
 
 footer {

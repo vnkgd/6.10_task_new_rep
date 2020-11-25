@@ -63,7 +63,7 @@ article:nth-child(2n) p{
 }
 
 article h2::after{
-    content: "NEW";
+    content: " NEW";
     color: red;
     font-size: 0.5em;
     vertical-align: top;
